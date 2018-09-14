@@ -1,0 +1,5 @@
+1.	Major£º CS
+2.	Graduate Student
+3.	Programing language: Python
+4.	Data Base: MySQL
+5.	Team: Kaiwen Xue, Jiaxin Wang, Zhe Jun, Zhiren yang(me)

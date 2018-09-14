@@ -1,0 +1,278 @@
+--> 0 HEAD
+<-- 0|HEAD|Y|
+--> 1 SOUR Family Echo
+<-- 1|SOUR|N|Family Echo 
+--> 2 WWW http://www.familyecho.com/
+<-- 2|WWW|N|http://www.familyecho.com/ 
+--> 1 FILE My Family
+<-- 1|FILE|N|My Family 
+--> 1 DATE 9 SEP 2018
+<-- 1|DATE|N|9 SEP 2018 
+--> 1 DEST ANSTFILE
+<-- 1|DEST|N|ANSTFILE 
+--> 1 GEDC
+<-- 1|GEDC|N|
+--> 2 VERS 5.5.1
+<-- 2|VERS|N|5.5.1 
+--> 2 FORM LINEAGE-LINKED
+<-- 2|FORM|N|LINEAGE-LINKED 
+--> 1 SUBM @I1@
+<-- 1|SUBM|N|@I1@ 
+--> 2 NAME Zhiren Yang
+<-- 2|NAME|N|Zhiren Yang 
+--> 1 SUBN
+<-- 1|SUBN|N|
+--> 1 CHAR UTF-8
+<-- 1|CHAR|N|UTF-8 
+--> 0 @I1@ INDI
+<-- 0|INDI|Y|@I1@
+--> 1 NAME A /Yang/
+<-- 1|NAME|Y|A /Yang/ 
+--> 2 GIVN A
+<-- 2|GIVN|N|A 
+--> 2 SURN Yang
+<-- 2|SURN|N|Yang 
+--> 2 _MARNM Yang
+<-- 2|_MARNM|N|Yang 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 26 DEC 1993
+<-- 2|DATE|Y|26 DEC 1993 
+--> 1 NOTE Bio notes: Zhiren Yang
+<-- 1|NOTE|N|Bio notes: Zhiren Yang 
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@ 
+--> 0 @I2@ INDI
+<-- 0|INDI|Y|@I2@
+--> 1 NAME B /Yang/
+<-- 1|NAME|Y|B /Yang/ 
+--> 2 GIVN B
+<-- 2|GIVN|N|B 
+--> 2 SURN Yang
+<-- 2|SURN|N|Yang 
+--> 2 _MARNM Yang
+<-- 2|_MARNM|N|Yang 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2 MAR 1975
+<-- 2|DATE|Y|2 MAR 1975 
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@ 
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@ 
+--> 0 @I3@ INDI
+<-- 0|INDI|Y|@I3@
+--> 1 NAME B /Yu/
+<-- 1|NAME|Y|B /Yu/ 
+--> 2 GIVN B
+<-- 2|GIVN|N|B 
+--> 2 SURN Yu
+<-- 2|SURN|N|Yu 
+--> 2 _MARNM Yu
+<-- 2|_MARNM|N|Yu 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 7 DEC 1972
+<-- 2|DATE|Y|7 DEC 1972 
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@ 
+--> 1 FAMC @F3@
+<-- 1|FAMC|Y|@F3@ 
+--> 0 @I4@ INDI
+<-- 0|INDI|Y|@I4@
+--> 1 NAME C /Yu/
+<-- 1|NAME|Y|C /Yu/ 
+--> 2 GIVN C
+<-- 2|GIVN|N|C 
+--> 2 SURN Yu
+<-- 2|SURN|N|Yu 
+--> 2 _MARNM Yu
+<-- 2|_MARNM|N|Yu 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 8 APR 1930
+<-- 2|DATE|Y|8 APR 1930 
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y 
+--> 2 DATE 10 NOV 2014
+<-- 2|DATE|Y|10 NOV 2014 
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@ 
+--> 0 @I5@ INDI
+<-- 0|INDI|Y|@I5@
+--> 1 NAME C /Li/
+<-- 1|NAME|Y|C /Li/ 
+--> 2 GIVN C
+<-- 2|GIVN|N|C 
+--> 2 SURN Li
+<-- 2|SURN|N|Li 
+--> 2 _MARNM Li
+<-- 2|_MARNM|N|Li 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 3 FEB 1937
+<-- 2|DATE|Y|3 FEB 1937 
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@ 
+--> 0 @I6@ INDI
+<-- 0|INDI|Y|@I6@
+--> 1 NAME C /Yang/
+<-- 1|NAME|Y|C /Yang/ 
+--> 2 GIVN C
+<-- 2|GIVN|N|C 
+--> 2 SURN Yang
+<-- 2|SURN|N|Yang 
+--> 2 _MARNM Yang
+<-- 2|_MARNM|N|Yang 
+--> 1 SEX M
+<-- 1|SEX|Y|M 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2 MAR 1937
+<-- 2|DATE|Y|2 MAR 1937 
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@ 
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@ 
+--> 1 FAMS @F5@
+<-- 1|FAMS|Y|@F5@ 
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@ 
+--> 0 @I7@ INDI
+<-- 0|INDI|Y|@I7@
+--> 1 NAME C /Zhao/
+<-- 1|NAME|Y|C /Zhao/ 
+--> 2 GIVN C
+<-- 2|GIVN|N|C 
+--> 2 SURN Zhao
+<-- 2|SURN|N|Zhao 
+--> 2 _MARNM Zhao
+<-- 2|_MARNM|N|Zhao 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 13 MAR 1950
+<-- 2|DATE|Y|13 MAR 1950 
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@ 
+--> 0 @I8@ INDI
+<-- 0|INDI|Y|@I8@
+--> 1 NAME C /Liu/
+<-- 1|NAME|Y|C /Liu/ 
+--> 2 GIVN C
+<-- 2|GIVN|N|C 
+--> 2 SURN Liu
+<-- 2|SURN|N|Liu 
+--> 2 _MARNM Liu
+<-- 2|_MARNM|N|Liu 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 5 MAY 1930
+<-- 2|DATE|Y|5 MAY 1930 
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y 
+--> 2 DATE 3 FEB 2000
+<-- 2|DATE|Y|3 FEB 2000 
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@ 
+--> 0 @I9@ INDI
+<-- 0|INDI|Y|@I9@
+--> 1 NAME B1 /Yang/
+<-- 1|NAME|Y|B1 /Yang/ 
+--> 2 GIVN B1
+<-- 2|GIVN|N|B1 
+--> 2 SURN Yang
+<-- 2|SURN|N|Yang 
+--> 2 _MARNM Yang
+<-- 2|_MARNM|N|Yang 
+--> 1 SEX F
+<-- 1|SEX|Y|F 
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 3 MAR 1980
+<-- 2|DATE|Y|3 MAR 1980 
+--> 1 FAMC @F6@
+<-- 1|FAMC|Y|@F6@ 
+--> 0 @F1@ FAM
+<-- 0|FAM|Y|@F1@
+--> 1 HUSB @I2@
+<-- 1|HUSB|Y|@I2@ 
+--> 1 WIFE @I3@
+<-- 1|WIFE|Y|@I3@ 
+--> 1 CHIL @I1@
+<-- 1|CHIL|Y|@I1@ 
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 4 MAR 1991
+<-- 2|DATE|Y|4 MAR 1991 
+--> 2 PLAC niujuanzi
+<-- 2|PLAC|N|niujuanzi 
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y 
+--> 0 @F2@ FAM
+<-- 0|FAM|Y|@F2@
+--> 1 HUSB @I6@
+<-- 1|HUSB|Y|@I6@ 
+--> 1 CHIL @I2@
+<-- 1|CHIL|Y|@I2@ 
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N 
+--> 0 @F3@ FAM
+<-- 0|FAM|Y|@F3@
+--> 1 HUSB @I4@
+<-- 1|HUSB|Y|@I4@ 
+--> 1 WIFE @I5@
+<-- 1|WIFE|Y|@I5@ 
+--> 1 CHIL @I3@
+<-- 1|CHIL|Y|@I3@ 
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 7 FEB 1950
+<-- 2|DATE|Y|7 FEB 1950 
+--> 2 PLAC fengshan
+<-- 2|PLAC|N|fengshan 
+--> 1 DIV
+<-- 1|DIV|Y|
+--> 2 DATE 25 JUN 1999
+<-- 2|DATE|Y|25 JUN 1999 
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y 
+--> 0 @F4@ FAM
+<-- 0|FAM|Y|@F4@
+--> 1 HUSB @I6@
+<-- 1|HUSB|Y|@I6@ 
+--> 1 WIFE @I8@
+<-- 1|WIFE|Y|@I8@ 
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y 
+--> 0 @F5@ FAM
+<-- 0|FAM|Y|@F5@
+--> 1 HUSB @I6@
+<-- 1|HUSB|Y|@I6@ 
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N 
+--> 0 @F6@ FAM
+<-- 0|FAM|Y|@F6@
+--> 1 HUSB @I6@
+<-- 1|HUSB|Y|@I6@ 
+--> 1 WIFE @I7@
+<-- 1|WIFE|Y|@I7@ 
+--> 1 CHIL @I9@
+<-- 1|CHIL|Y|@I9@ 
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N 
+--> 0 TRLR
+<-- 0|TRLR|Y|
